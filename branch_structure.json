@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "gfi/12-completion-docs",
+    "gfi/13-config-example",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "gfi/12-completion-docs": "main",
+    "gfi/13-config-example": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "gfi/12-completion-docs",
+    "gfi/13-config-example",
+    "origin"
+  ]
+}
